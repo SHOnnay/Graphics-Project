@@ -1,1 +1,1 @@
-# Graphics-Project
+# Graphics-Project using OpenGL Utility Toolkit
